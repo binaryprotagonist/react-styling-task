@@ -1,0 +1,17 @@
+[
+  {
+    "name": "James Hiddleston",
+    "first_name": "James",
+    "last_name": "Hiddleston",
+    "current_title": "Machine Learning Engineer",
+    "location": "San Francisco Bay Area",
+    "phone_number": "",
+    "personal_email": "",
+    "linkedIn": "",
+    "experience": [
+      "Senior Machine Learning Engineer at Google",
+      "Junior Machine Learning Engineer at Spotify"
+    ],
+    "education": ["Stanford University, M.S., Computer Science"]
+  }
+]
